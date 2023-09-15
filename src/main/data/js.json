@@ -1,0 +1,1 @@
+{"op":"I","ts_ms":"1686627020326","source":{"ts_ms":"1686627020326","db":"nanhang","schema":"nanhang","table":"test"},"before":null,"after":{"id":1,"col1":1,"col2":1,"col3":1.01, "field_type":"id:INT precision:11,col1:INT precision:11,col2:INT precision:11,col3:DECIMAL precision:10 scale:2"}}
